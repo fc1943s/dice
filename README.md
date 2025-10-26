@@ -1,6 +1,6 @@
 # dice
 
-<https://i574n.github.io/dice>
+<https://fc1943s.github.io/dice>
 
 [![깃허브 코드스페이스](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=756477988)
 
@@ -21,7 +21,7 @@
 Clone the repository:
 
 ```powershell
-git clone https://github.com/i574n/dice.git
+git clone https://github.com/fc1943s/dice.git
 ```
 
 Navigate to the directory, initialize dependencies and build the project:
@@ -44,7 +44,7 @@ Documentation
 <td>
 
 - Repository file tree (HTML)  
-<https://i574n.github.io/dice>
+<https://fc1943s.github.io/dice>
 
 </td>
 </tr>
@@ -58,13 +58,13 @@ Dice Sample
 <td>
 
 - Dice library  
-<https://i574n.github.io/dice/lib/dice.dib.html>
+<https://fc1943s.github.io/dice/lib/dice.dib.html>
 
 - Dice smart contract notebook (Rust, NEAR Protocol)  
-<https://i574n.github.io/dice/contract/dice_contract.dib.html>
+<https://fc1943s.github.io/dice/contract/dice_contract.dib.html>
 
 - Rolls on-chain history UI (Rust WASM frontend)  
-<https://i574n.github.io/dice/ui/dist>
+<https://fc1943s.github.io/dice/ui/dist>
 
 </td>
 </tr>
@@ -73,8 +73,8 @@ Dice Sample
 
 ## Contributing
 
-Contributions are welcome! Please see the [CONTRIBUTING.md](https://github.com/i574n/.github/blob/main/CONTRIBUTING.md) for guidelines.
+Contributions are welcome! Please see the [CONTRIBUTING.md](https://github.com/fc1943s/.github/blob/main/CONTRIBUTING.md) for guidelines.
 
 ## License
 
-This project is licensed under the AGPLv3 License. See the [LICENSE](https://github.com/i574n/dice/blob/main/LICENSE) file for details.
+This project is licensed under the AGPLv3 License. See the [LICENSE](https://github.com/fc1943s/dice/blob/main/LICENSE) file for details.
